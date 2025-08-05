@@ -1,0 +1,24 @@
+# FastAPI + Server
+fastapi
+uvicorn
+
+# LangChain / LLM / Agents
+langchain
+openai
+langchain-google-genai
+crewai
+tiktoken
+
+# GenAI & PDF Processing
+pytesseract
+pdf2image
+pymupdf
+pillow
+
+# Cloud + Secrets + Storage
+python-dotenv
+google-cloud-storage
+redis
+
+# Other
+requests
